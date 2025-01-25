@@ -17,3 +17,8 @@
 3. __Móvil__:
 
     ![Móvil](images/mobile.png)
+## VALIDACION HTML:
+- [Validación de Index.html](https://validator.w3.org)
+    
+    ![Validación](image.png)
+
