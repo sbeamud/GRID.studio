@@ -20,5 +20,5 @@
 ## VALIDACION HTML:
 - [Validación de Index.html](https://validator.w3.org)
     
-    ![Validación](image.png)
+    ![Validación](images/validate_index.png)
 
